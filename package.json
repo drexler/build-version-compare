@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drexler/buildversion-compare.git"
+    "url": "git+https://github.com/drexler/build-version-compare.git"
   },
   "keywords": [
     "semver"
@@ -16,9 +16,9 @@
   "author": "Andrew Quartey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drexler/buildversion-compare/issues"
+    "url": "https://github.com/drexler/build-version-compare/issues"
   },
-  "homepage": "https://github.com/drexler/buildversion-compare#readme",
+  "homepage": "https://github.com/drexler/build-version-compare#readme",
   "devDependencies": {
     "@types/node": "^9.4.6"
   }
