@@ -1,0 +1,25 @@
+{
+  "name": "build-version-compare",
+  "version": "1.0.0",
+  "description": "compares to version strings of the format major.minor.patch.buildnumber and returns 1, 0 or -1",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drexler/buildversion-compare.git"
+  },
+  "keywords": [
+    "semver"
+  ],
+  "author": "Andrew Quartey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drexler/buildversion-compare/issues"
+  },
+  "homepage": "https://github.com/drexler/buildversion-compare#readme",
+  "devDependencies": {
+    "@types/node": "^9.4.6"
+  }
+}
